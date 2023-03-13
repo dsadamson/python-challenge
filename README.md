@@ -33,7 +33,7 @@ To find the number of votes each candidate received, I created three separate li
 
 Finally, to find the winner, a series of 'if' and 'elif' statements tells the program to compare each candidates vote percentages to one another. If one candidates vote percentage is greater than the other two, their name is recorded under the variable winner, then printed at the end of the code.
 
-I formatted these values to display in a summary in the terminal and used the writer function in Python to also create a text file for them. When this project is downloaded from GitHub, there will already be a budget_data.txt file included in the pybank \'91Analysis\'92 folder, but if it is deleted and the program is run again, a new one should be created.
+I formatted these values to display in a summary in the terminal and used the writer function in Python to also create a text file for them. When this project is downloaded from GitHub, there will already be a budget_data.txt file included in the pybank 'Analysis' folder, but if it is deleted and the program is run again, a new one should be created.
 
 
 Authors: 
